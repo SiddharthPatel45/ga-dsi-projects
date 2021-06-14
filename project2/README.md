@@ -105,7 +105,7 @@ The contents of this project are as follows:
 Part I
 - 1 Load the Data
 - 2 Data Munging & EDA
-- 3 CSS $-$ Cleaning, Spliting & Saving
+- 3 CSS - Cleaning, Spliting & Saving
 
 Part II
 - 1 Data Import & Baseline Score
