@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 2: Reddit API & Subreddit Classification
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 3: Reddit API & Subreddit Classification
 
 This is the third project done as part of the General Assembly's Data Science Immersive in June 2021.
 
@@ -46,22 +46,9 @@ We can make the following recommendations based on this conclusions:
 
 The contents of this notebook are as follows:
 
-- [1 Data import](#1-Data-import)
- - [1.1 Import libraries](#1.1-Import-libraries)
- - [1.2 Get the data](#1.2-Get-the-data)
-- [2 Preprocessing text](#2-Preprocessing-text)
- - [2.1 Clean text](#2.1-Clean-text)
- - [2.2 Analyse text](#2.2-Analyse-text)
- - [2.3 Transform text](#2.3-Transform-text)
-- [3 Building models](#3-Building-models)
-- [4 Pipelines & parameter tuning](#4-Pipelines-&-parameter-tuning)
- - [4.1 Create pipelines](#4.1-Create-pipelines)
- - [4.2 Grid searching](#4.2-Grid-searching)
-- [5 Evaluation](#5-Evaluation)
- - [5.1 Best Model](#5.1-Best-Model)
- - [5.2 Metrics](#5.2-Metrics)
- - [5.3 Misclassification](#5.3-Misclassification)
-- [6 Conclusion and Recommendations](#6-Conclusion-and-Recommendations) 
-
-
-The contents of this project are as follows:
+- 1 Data import
+- 2 Preprocessing text
+- 3 Building models
+- 4 Pipelines & parameter tuning
+- 5 Evaluation
+- 6 Conclusion and Recommendations
